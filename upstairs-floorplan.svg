@@ -16,7 +16,10 @@
    viewBox="0 0 3139 1560"
    id="svg2"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="upstairs-floorplan.svg">
+   sodipodi:docname="upstairs-floorplan.svg"
+   inkscape:export-filename="/home/james/Nottinghack/space/rodenhouse/upstairs-floorplan.png"
+   inkscape:export-xdpi="72.017342"
+   inkscape:export-ydpi="72.017342">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,14 +27,14 @@
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
      inkscape:window-height="958"
      id="namedview1540"
      showgrid="false"
      inkscape:zoom="0.39630456"
-     inkscape:cx="1434.0653"
+     inkscape:cx="1439.1119"
      inkscape:cy="641.72615"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -52,6 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>/home/james/Nottinghack/space/rodenhouse/upstairs-floorplan.sh3d</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
