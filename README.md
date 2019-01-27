@@ -4,14 +4,18 @@ Plans and other data for our space at Roden House Business Centre, Alfred Street
 The source files in the project are made using sweet home 3d
 
 ## as let
-`downstairs-as-let.sh3d` and `upstairs-as-let.sh3d` show the orignal build layout we we rented the various uints
+`downstairs-as-let.sh3d` and `upstairs-as-let.sh3d`
+
+Show the orignal build layout we we rented the various uints
 
 ## floorplan
 `downstairs-floorplan.sh3d` and `upstairs-floorplan.sh3d`
+
 These are clean version of the floor plans
 
 ## floorplan network
 `downstairs-floorplan-network.sh3d` and `upstairs-floorplan-network.sh3d`
+
 There are use by Networking Team to track the location of netowrk points around the space
 and by Insfrastructure Team to mark the power distrubition boards
 
